@@ -47,7 +47,6 @@ const jj = {
 
     currentFocus: [
         "Full-Stack Development",
-        "Software Engineering",
         "Scalable Applications",
         "REST APIs",
         "Modern Web Apps"
