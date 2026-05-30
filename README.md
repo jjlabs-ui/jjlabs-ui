@@ -5,7 +5,7 @@ const jj = {
     name: "João Pedro",
     pronouns: "He/Him",
 
-    role: "Full-Stack Developer & Software Engineer",
+    role: "Full-Stack Developer",
 
     languages: [
         "JavaScript",
