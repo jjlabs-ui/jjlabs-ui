@@ -41,14 +41,5 @@ const jj = {
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
         devOps: ["AWS", "Docker", "Vercel", "Linux"],
         tools: ["Git", "GitHub", "VS Code", "Visual Studio", "Postman", "Figma"]
-    },
-
-    currentFocus: [
-        "Full-Stack Development",
-        "Scalable Applications",
-        "REST APIs",
-        "Modern Web Apps"
-    ]
-};
 ```
 
