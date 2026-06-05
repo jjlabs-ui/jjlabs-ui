@@ -2,9 +2,7 @@
 
 ```js
 const jj = {
-    name: "João Pedro",
-    pronouns: "He/Him",
-
+    name: "João Pedro"
     role: "Full-Stack Developer",
 
     languages: [
